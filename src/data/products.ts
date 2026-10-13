@@ -30,6 +30,7 @@ const products: Product[] = [
   { id: 10, name: 'Sobre Caramelo', category: 'dama', color: 'Caramelo', colorHex: '#ac764a', description: 'Una propuesta de solapa tipo sobre y un pequeño acento metálico. Un equilibrio entre líneas delicadas y tonos naturales.', image: '/img/modelo-10.jpg' },
   { id: 11, name: 'Compacta Marfil', category: 'dama', color: 'Marfil', colorHex: '#d6cfbd', description: 'Un formato compacto con cierre en un tono marfil suave. Una inspiración luminosa para tus accesorios de todos los días.', image: '/img/modelo-11.jpg', label: 'TONOS NATURALES' },
   { id: 12, name: 'Larga Rosa', category: 'dama', color: 'Rosa antiguo', colorHex: '#b58383', description: 'Una propuesta alargada en rosa antiguo, con un detalle de cierre metálico. Consulta por WhatsApp las opciones reales disponibles.', image: '/img/modelo-12.jpg' },
+  { id: 13, name: 'Prueba 13', category: 'hombre', color: 'Rosa antiguo', colorHex: '#b58383', description: 'Esto es una prueba para testear la configuracion de la pagina web.', image: '/img/modelo-13.jpg' }, 
 ]
 
 export default products
